@@ -1,0 +1,9 @@
+{
+    "product":  "pv",
+    "version":  "1.0.10",
+    "url":  "https://github.com/marketsisDevs/marketsis-releases/releases/download/pv-v1.0.10/SyncMarketsis_Setup_1.0.10.exe",
+    "sha256":  "0f6d89e4edd155f63ace49c591ef727a54d19022aa0735c0830e94a6bb4d1027",
+    "size":  107318645,
+    "published_at":  "2026-10-30T12:24:13Z",
+    "notes":  "se cambio el link del qr de android"
+}

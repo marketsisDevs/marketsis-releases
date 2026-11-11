@@ -1,9 +1,9 @@
 {
     "product":  "pv",
-    "version":  "1.0.10",
-    "url":  "https://github.com/marketsisDevs/marketsis-releases/releases/download/pv-v1.0.10/SyncMarketsis_Setup_1.0.10.exe",
-    "sha256":  "1ffd0ac91ddf456a08cd10f3256234b1d61fd6eba666a1e7d3f61cffcf1aaddb",
-    "size":  107317544,
-    "published_at":  "2026-10-30T13:08:39Z",
-    "notes":  "se arreglo el bug de busqueda por interno"
+    "version":  "1.0.11",
+    "url":  "https://github.com/marketsisDevs/marketsis-releases/releases/download/pv-v1.0.11/SyncMarketsis_Setup_1.0.11.exe",
+    "sha256":  "dcd2bdd908ac3ac0d3ed18eed13b8f2fbd148254737e1871e83bc639581cb5b8",
+    "size":  107319535,
+    "published_at":  "2026-11-11T18:04:23Z",
+    "notes":  "fix en qr para emparejamiento"
 }

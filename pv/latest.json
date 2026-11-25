@@ -1,9 +1,9 @@
 {
     "product":  "pv",
-    "version":  "1.0.12",
-    "url":  "https://github.com/marketsisDevs/marketsis-releases/releases/download/pv-v1.0.12/SyncMarketsis_Setup_1.0.12.exe",
-    "sha256":  "467f9e956b05e9cf49f296767cb1d60a3fda2cfefd87c317cf81639b481e93b1",
-    "size":  107398302,
-    "published_at":  "2026-11-17T23:12:09Z",
-    "notes":  "mejora precio ultimo"
+    "version":  "1.1.0",
+    "url":  "https://github.com/marketsisDevs/marketsis-releases/releases/download/pv-v1.1.0/SyncMarketsis_Setup_1.1.0.exe",
+    "sha256":  "aa5d6f5e2ed182b41d12aed58d9dce4592ca1b42d0c07c2552366a07459367e5",
+    "size":  106609536,
+    "published_at":  "2026-11-25T03:19:43Z",
+    "notes":  "parche minor con cambios"
 }
